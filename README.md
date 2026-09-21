@@ -1,2 +1,2 @@
 # equilibrio-releases
-Updates for equilibrion
+Updates for equilibrio
